@@ -6,4 +6,5 @@ Website for Power Lab at Texas State University.
 Repository: `txst-power-lab.github.io`
 Source: `main` branch, `/ (root)`.
 
-Replace the logo placeholder and update the page content as the lab grows.
+## Director photo
+Save the photo as `images/director.jpg` (portrait, roughly 340x400 px). Until it exists, the People page shows a grey placeholder box.
